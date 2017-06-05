@@ -32,7 +32,8 @@
 	<!-- spring整合Redis -->
 	<!-- <import resource="classpath:spring-redis.xml" /> -->
 	
-	<!-- <import resource="classpath:spring-time.xml" /> -->
+	<!-- Spring定时任务 -->
+	<import resource="classpath:spring-time.xml" />
 	
 
 </beans>
